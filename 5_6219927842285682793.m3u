@@ -1,0 +1,530 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="English News",English Wion
+http://z5ams.akamaized.net/wion/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="English News",CNN News 18
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
+
+#EXTINF:-1 group-title="English News",NDTV Prime
+https://ndtvstream-lh.akamaihd.net//i//ndtv_profit_1@300635/master.m3u8
+
+#EXTINF:-1 group-title="English News",Times Now HD
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+
+#EXTINF:-1 group-title="English News",CNBC 18 English
+https://cnbctv18-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/index_5_av-p.m3u8
+
+#EXTINF:-1 group-title="English News",NDTV Prime
+https://ndtvstream-lh.akamaihd.net//i//ndtv_profit_1@300635//master.m3u8
+
+#EXTINF:-1 group-title="English News",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+
+#EXTINF:-1 group-title="English News",Living India News
+http://7mbd4njeq3gx-hls-live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="English News",News X English
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsx_all/master.m3u8
+
+#EXTINF:-1 group-title="English News",News 18 English
+https://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5_av-p.m3u8
+
+#EXTINF:-1 group-title="English News",CNN News 18
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
+
+#EXTINF:-1 group-title="English News",News X English
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsx_all/master.m3u8
+
+#EXTINF:-1 group-title="English News",Al Jazeera EN
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/01.m3u8
+
+#EXTINF:-1 group-title="English News",CNBC 18 English
+https://cnbctv18-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/index_5_av-p.m3u8
+
+#EXTINF:-1 group-title="English News",Zee Business
+http://z5ams.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="English News",ABC News Live 480p
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 group-title="English News",ABC News Live 720p
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+
+#EXTINF:-1 group-title="English News",ABC News [720p]
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1 group-title="English News",ABC News Digital
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+
+#EXTINF:-1 group-title="English News",ABC News Digital 2
+
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+
+#EXTINF:-1 group-title="English News",ABC News Digital 3
+
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+
+#EXTINF:-1 group-title="English News",Bloomberg TV UK
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 group-title="English News",BLOOmBERG ASIA
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+
+#EXTINF:-1 group-title="English News",Bloomberg Asia [720p]
+https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
+
+#EXTINF:-1 group-title="English News",Bloomberg
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+
+#EXTINF:-1 group-title="English News",Sky News HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 group-title="English News",CNN 360p
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="English News",CNBC Prime HD [720p]
+http://b_cnbcprimehd_dv-lh.akamaihd.net/i/b_cnbcprimehd_dvr_1@100511/master.m3u8
+
+#EXTINF:-1 group-title="English News",CNBC [360p]
+http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
+
+#EXTINF:-1 group-title="English News",Al Jazeera English 360p
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/1.m3u8
+
+#EXTINF:-1 group-title="English News",Al Jazeera English HD
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 group-title="Sports",CNBC SD
+http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ABC Live HD
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+
+#EXTINF:-1 group-title="Sports",Sky News Live
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+
+#EXTINF:-1 group-title="Infotainment",Discovery World (Opt-2)
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/03.m3u8
+
+#EXTINF:-1 group-title="Infotainment",Animal Planet
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+
+#EXTINF:-1 group-title="Infotainment",Discovery HD World
+http://mhms10.airtel.tv/wh7f454c46tw1142183649_785079316/PLTV/88888888/224/3221226497/index.m3u8
+
+#EXTINF:-1 group-title="Infotainment",BBC Earth
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/index.m3u8
+
+#EXTINF:-1 group-title="Infotainment",Animal Planet
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/index.m3u8
+
+#EXTINF:-1 group-title="Infotainment",TLC HD World (Opt-1)
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
+
+#EXTINF:-1 group-title="Infotainment",TLC 
+http://80.80.160.168/live/2/live.m3u8
+
+#EXTINF:-1 group-title="Infotainment",TRAVEL CHANNEL 
+http://80.80.160.168/live/3/live.m3u8
+
+#EXTINF:-1 group-title="Infotainment",ANIMAL PLANET EST 
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1 group-title="Infotainment",Discovery SCIENCE CHANNEL
+http://80.80.160.168/live/9/live.m3u8
+
+#EXTINF:-1 group-title="Infotainment",INVESTIGATION DISCOVERY [480p]
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:-1 group-title="Infotainment",Discovery Channel HD [720p]
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1 group-title="Infotainment",Planet Green
+http://80.80.160.168/live/4/live.m3u8
+
+#EXTINF:-1 group-title="Infotainment",SHOW HD
+http://80.80.160.168/live/7/live.m3u8
+
+#EXTINF:-1 group-title="Infotainment",NatGeo WIld HD
+http://103.240.91.71:808/natgeowildHD/index.m3u8
+
+
+#EXTINF:-1 group-title="Religious" BETTER HEALTH [480p]
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+
+#EXTINF:-1 group-title="Religious" Better Life TV
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+
+#EXTINF:-1 group-title="Religious" BETTER NATURE [480p]
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+
+#EXTINF:-1 group-title="English Movies",FOX Premium Movies 360p
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="English Movies",FOX Premium Comedy [360p]
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:-1 group-title="English Movies",Sony Movie International HD
+
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+
+#EXTINF:-1 group-title="English Movies",Star World SD
+
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=starworld
+
+#EXTINF:-1 group-title="English Movies",Star World SD
+
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=starmovieshd
+
+#EXTINF:-1 group-title="English Movies",HBO2 [360p]
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 group-title="English Movies",HBO2 [720p]
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+
+#EXTINF:-1 group-title="English Movies",Zee Cafe 
+http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="English Movies",Zee Cafe HD
+http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="English Movies",StarWorldHD
+http://142.93.219.225:8081/StarWorldHD/index.m3u8
+
+#EXTINF:-1 group-title="English Movies",AXN
+http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/index.m3u8
+
+#EXTINF:-1 group-title="English Movies",& Prive HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="English Movies",& Flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 group-title="Hindi Music",9XM Hindi
+https://ind17-lh.akamaihd.net/i/ind17_9xm@68548/index_2000_av-p.m3u8
+
+#EXTINF:-1 group-title="Hindi Music",Zing
+http://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Hindi Music",Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+
+#EXTINF:-1 group-title="Hindi Music",Sony MIX
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/01.m3u8
+
+#EXTINF:-1 group-title="Hindi Music",Zee ETC
+http://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Hindi Music",Tarang Music
+http://thoptv.strangled.net:80/api/tulip/yupp.m3u8?ch=Tarang-Music
+
+#EXTINF:-1 group-title="Hindi Music",Music India
+http://thoptv.strangled.net:80/api/tulip/yupp.m3u8?ch=Music-India
+
+#EXTINF:-1 group-title="Hindi Music",Music Masti
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=musicmasti
+
+#EXTINF:-1 group-title="Hindi Music",
+http://thoptv.strangled.net:80/api/tulip/star.m3u8?id=1260000012
+
+#EXTINF:-1 group-title="Music",Mastii Music Low Quality
+http://cshms3.airtel.tv:80/PLTV/88888888/224/3221226472/01.m3u8
+
+#EXTINF:-1 group-title="Music",Pop Hungama Hits
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+
+#EXTINF:-1 group-title="Music",Dilse Hungama Hits
+
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+
+#EXTINF:-1 group-title="Music",Kadak Hungama Hits
+
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+
+#EXTINF:-1 group-title="Hindi GEC",& TV HD
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Hindi GEC",Zee TV
+http://z5ams.akamaized.net/zeetvsd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Hindi GEC",Zee TV HD
+http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Hindi GEC",ColorsHD
+http://103.240.91.71:808/Colors_HD/index.m3u8?token=RedflixTV
+
+#EXTINF:-1 group-title="Hindi GEC",Star Plus HD
+
+http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
+
+#EXTINF:-1 group-title="Hindi GEC",Star Gold HD
+
+http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8
+
+#EXTINF:-1 group-title="Hindi GEC",Sony Pal Ultra HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/index.m3u8
+
+#EXTINF:-1 group-title="Hindi GEC",Sony  TV Ultra HD
+http://cshms2.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/index.m3u8
+
+#EXTINF:-1 group-title="Hindi GEC",Sony Sab Ultra HD
+http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/index.m3u8
+
+#EXTINF:-1 group-title="Hindi GEC",SonySABHD
+https://sony.akamaized.net/amagi_hls_data_c6009f0-sonysab/CDN/640x360_765600/index.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",Star Bharat HD
+
+http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_2000.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",Star Utsav
+
+http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",Star Gold
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=stargold
+
+#EXTINF:-1 group-title="Hindi Movies",Star Gold Select
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=stargoldselect
+
+#EXTINF:-1 group-title="Hindi Movies",Zee Cinema
+http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",Zee Cinema HD
+http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",Sony Max Ultra HD
+http://cshms2.airtel.tv/wh7f454c46tw1426839479_1338613003/PLTV/88888888/224/3221225776/index.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",Sony Wah Ultra HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/01.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",Sony Lex Plex UHD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",B4U Movies SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/index.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",& Pictures HD
+https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",Zee Action
+http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1 group-title="Hindi Movies",Zee Classic
+http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",BIG Magic Ultra HD
+http://cshms1.airtel.tv/wh7f454c46tw4026633827_845762561/PLTV/88888888/224/3221225745/index.m3u8
+
+#EXTINF:-1 group-title="Hindi News",Aajtak Youtube Stream 720p
+https://www.youtube.com/watch?v=i4k6hsABsxo
+
+#EXTINF:-1 group-title="Hindi News",AajTak Low Quality
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi News",News 18 India
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
+
+#EXTINF:-1 group-title="Hindi News",ABP News
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226140/index.m3u8
+
+#EXTINF:-1 group-title="Hindi News",ABN Hindi
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8B4u
+
+#EXTINF:-1 group-title="Hindi News",India TV Youtube
+ https://www.youtube.com/watch?v=ePa1g9hgjgM
+
+#EXTINF:-1 group-title="Hindi News",India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+
+#EXTINF:-1 group-title="Hindi News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+
+#EXTINF:-1 group-title="Hindi News",India News
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
+
+#EXTINF:-1 group-title="Hindi News",CNBC Hindi News
+https://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_5_av-p.m3u8
+
+#EXTINF:-1 group-title="Hindi News",Lok Sabha TV
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8 
+
+#EXTINF:-1 group-title="Hindi News",India News
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
+
+#EXTINF:-1 group-title="Hindi News",CNBC Hindi News
+https://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_5_av-p.m3u8
+
+#EXTINF:-1 group-title="Hindi News",DD India
+http://z5ams.akamaized.net/ddindia/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional", Zee Bangla
+http://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional", Zee Bangla HD
+http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional", Zee Kannada HD
+http://z5ams.akamaized.net:80/zkannadahd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional", Zee Marathi HD
+http://z5ams.akamaized.net/zmarathihd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional", Zee Talkies
+http://z5ams.akamaized.net:80/zeetalkies/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional",Zee Marathi
+http://z5ams.akamaized.net:80/zeemarathi/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional",Zee Kannada
+http://z5ams.akamaized.net:80/zeekannada/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional",Zee Salaam
+http://z5ams.akamaized.net:80/zeesalaam/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional",Zee Tamil
+http://z5ams.akamaized.net:80/zeetamil/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional", Zee 24 Kalak
+http://z5ams.akamaized.net/kalak/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional", Zee 24 Ghanta
+http://z5ams.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional",,Zee 24 Taas
+http://z5ams.akamaized.net/24taas/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional", Zee Bihar JH
+http://z5ams.akamaized.net/biharjharkh/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional", Zee Kalinga
+http://z5ams.akamaized.net/kalinga/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional", Zee Sarthak
+http://z5ams.akamaized.net/sarthaktv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Punjabi", Zee Sarthak
+http://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional", Zee Rajasthani
+http://z5ams.akamaized.net/rajasthan/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional", Zee UP UK
+http://z5ams.akamaized.net/zeenewsupuk/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Regional", DD PODHIGAI 
+https://mk9qa798qwyb-hls-live.wmncdn.net/824/abrstream/bbb19eae240ec100af921d511efc86a0.sdp/mono.m3u8
+#EXTINF:-1 group-title="Regional", Punjabi Tv Canada 
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 group-title="Regional", GEMPORIA Jewellery
+http://tvpremiumhd.club/lista-gratuita/210002/on/lives.php?id=57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.ts
+#EXTINF:-1 group-title="Regional", GEMS TV Jewellery
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+
+#EXTINF:-1 group-title="Regional",Star Jalsha Movies
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=jalshamovies
+
+#EXTINF:-1 group-title="Regional",Star Pravah HD
+http://starpravah-i.akamaihd.net/hls/live/569921/starpravah/master_2000.m3u8
+
+#EXTINF:-1 group-title="Regional",Star Vijay HD
+
+http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
+
+#EXTINF:-1 group-title="Regional",Star Maa HD
+
+http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_2000.m3u8
+
+#EXTINF:-1 group-title="Regional",Star Maa Gold HD
+
+http://maagold-i.akamaihd.net/hls/live/569932/maagold/master_1200.m3u8
+
+#EXTINF:-1 group-title="Regional",Star Maa Movies HD
+
+http://maamovies-i.akamaihd.net/hls/live/569932/maamovies/master_2000.m3u8
+
+#EXTINF:-1 group-title="Regional",Star Suvarna HD
+
+http://starsuvarna-i.akamaihd.net/hls/live/569901/starsuvarna/master_2000.m3u8
+
+#EXTINF:-1 group-title="Regional",Asianet HD
+
+http://asianethd-i.akamaihd.net/hls/live/569828/asianethd/master_2000.m3u8
+
+#EXTINF:-1 group-title="Regional",Asianet Plus HD
+
+http://asianetplus-i.akamaihd.net/hls/live/569922/asianetplus/master_2000.m3u8
+
+#EXTINF:-1 group-title="Regional",Asianet News 
+
+http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="Regional",Asianet Movies HD
+
+http://asianetmovies-i.akamaihd.net/hls/live/569919/asianetmovies/master_2000.m3u8
+
+#EXTINF:-1 group-title="Regional",Jalsha Movies HD
+http://jalsamovies-i.akamaihd.net/hls/live/569886/jalsamovies/master_2000.m3u8
+
+#EXTINF:-1 group-title="English Movies",ESPN [720p]
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN HD
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=espnhd
+
+#EXTINF:-1 group-title="Infotainment",ESPN 2 HD
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 group-title="Sports",Sports Special 1
+
+http://thoptv.strangled.net:80/api/special/hotstar/english_1.m3u8
+
+#EXTINF:-1 group-title="Sports",Sports Special 2
+
+http://thoptv.strangled.net:80/api/special/hotstar/english_4.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony Six HD
+
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=sonysixhd
+
+#EXTINF:-1 group-title="Sports",Sony Ten 1
+
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=ten1
+
+#EXTINF:-1 group-title="Sports",Sony Ten 2
+
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=ten2
+
+#EXTINF:-1 group-title="Sports",Sony Ten 3
+
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=ten3
+
+#EXTINF:-1 group-title="Sports", OSN Cricket HD
+
+http://flu.topeuserver.com:8080/LOLO/1/index.m3u8  
+
+#EXTINF:-1 group-title="Sports",Sky Sports Football
+
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=9&p=sp  
+
+#EXTINF:-1 group-title="Sports",Sky Sports Main Events
+
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=6&p=sp 
+
+#EXTINF:-1 group-title="Sports",Sky Sports Main Events HD
+http://thoptv.strangled.net:80/api/daisy/wlive/index.m3u8?ch=ss1
+
+#EXTINF:-1 group-title="Sports",SKY SPORTS FOOTBALL 
+https://livebar.pw/lba/123/g6/footballsky.m3u8
+
+#EXTINF:-1 group-title="Sports",Star Sports 1 UHD
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=starsports1
+
+#EXTINF:-1 group-title="Sports",Star Sports 3 Low Quality
+http://150.242.21.2:80/starsportsthree.m3u8
+
+#EXTINF:-1 group-title="Sports",Sky Sports
+
+http://thoptv.strangled.net:80/api/daisy/wlive/index.m3u8?ch=ss2
+
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports
+
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:-1 group-title="Sports",Fox Sports Premium HD
+
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=tru
+
+#EXTINF:-1 group-title="Kids",Disney Channel
+http://thoptv.strangled.net:80/api/tulip/bdtv.m3u8?id=disneychannel
+
+#EXTINF:-1 group-title="Kids",Pogo
+http://thoptv.strangled.net:80/api/tulip/ditto.m3u8?ch=pogo
+
+#EXTINF:-1 group-title="Kids",Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
